@@ -3,8 +3,8 @@
 A practice log. Each experiment I build with Claude gets an entry on the index
 page, so I can retrace what I did later — and show it to other people.
 
-**Live:** https://claude-projects-tau.vercel.app
-**Source:** https://github.com/rishi-k21/Claude-Projects
+- **Live:** https://claude-projects-tau.vercel.app
+- **Source:** https://github.com/rishi-k21/Claude-Projects
 
 ## Stack
 
